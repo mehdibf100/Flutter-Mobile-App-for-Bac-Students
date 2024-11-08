@@ -2,11 +2,14 @@
 
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
 
     <application
-        android:label="first_project"
+        android:label="TN Bac QCM"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
+        <meta-data android:name="com.google.android.geo.API_KEY"
+            android:value="ee9fedc011d012326337ec6eaeb956846b58ace7"/>
         <activity
             android:name=".MainActivity"
             android:exported="true"
