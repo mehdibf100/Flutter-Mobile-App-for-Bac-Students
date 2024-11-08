@@ -7,8 +7,7 @@ A new Flutter project.
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
-![2338583c-b9ed-4e9d-9377-27986e16b193](https://github.com/user-attachments/assets/e8e6a442-3012-4cb3-b09d-48e808cc9a47)
-
+<img width="209" alt="Capture d’écran 2024-11-08 172112" src="https://github.com/user-attachments/assets/43c441d2-f271-48d1-a3bf-0a699e86774e">
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
